@@ -1,0 +1,18 @@
+﻿  CorProfiler.cpp
+c:\users\dell\source\repos\clr-samples\profilingapi\rejitenterleavehooks\corprofiler.cpp(20): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  e:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 参见“sprintf”的声明
+c:\users\dell\source\repos\clr-samples\profilingapi\rejitenterleavehooks\corprofiler.cpp(26): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  e:\windows kits\10\include\10.0.17763.0\ucrt\string.h(90): note: 参见“strcat”的声明
+c:\users\dell\source\repos\clr-samples\profilingapi\rejitenterleavehooks\corprofiler.cpp(54): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  e:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: 参见“fopen”的声明
+c:\users\dell\source\repos\clr-samples\profilingapi\rejitenterleavehooks\corprofiler.cpp(232): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  e:\windows kits\10\include\10.0.17763.0\ucrt\corecrt_wstring.h(123): note: 参见“wcscpy”的声明
+c:\users\dell\source\repos\clr-samples\profilingapi\rejitenterleavehooks\corprofiler.cpp(233): warning C4996: 'wcscat': This function or variable may be unsafe. Consider using wcscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  e:\windows kits\10\include\10.0.17763.0\ucrt\corecrt_wstring.h(100): note: 参见“wcscat”的声明
+c:\users\dell\source\repos\clr-samples\profilingapi\rejitenterleavehooks\corprofiler.cpp(234): warning C4996: 'wcscat': This function or variable may be unsafe. Consider using wcscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  e:\windows kits\10\include\10.0.17763.0\ucrt\corecrt_wstring.h(100): note: 参见“wcscat”的声明
+c:\users\dell\source\repos\clr-samples\profilingapi\rejitenterleavehooks\corprofiler.cpp(238): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  e:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: 参见“fopen”的声明
+c:\users\dell\source\repos\clr-samples\profilingapi\rejitenterleavehooks\corprofiler.cpp(48): warning C4715: “Enter”: 不是所有的控件路径都返回值
+c:\users\dell\source\repos\clr-samples\profilingapi\rejitenterleavehooks\corprofiler.cpp(42): warning C4172: 返回局部变量或临时变量的地址: buf_ps
+  ClrProfiler.vcxproj -> C:\Users\DELL\source\repos\clr-samples\ProfilingAPI\ReJITEnterLeaveHooks\x64\Debug\ClrProfiler.dll

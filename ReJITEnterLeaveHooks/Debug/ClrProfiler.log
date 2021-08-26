@@ -1,0 +1,12 @@
+﻿  CorProfiler.cpp
+c:\users\dell\source\repos\clr-samples\profilingapi\rejitenterleavehooks\corprofiler.cpp(14): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  e:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: 参见“fopen”的声明
+c:\users\dell\source\repos\clr-samples\profilingapi\rejitenterleavehooks\corprofiler.cpp(196): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  e:\windows kits\10\include\10.0.17763.0\ucrt\corecrt_wstring.h(123): note: 参见“wcscpy”的声明
+c:\users\dell\source\repos\clr-samples\profilingapi\rejitenterleavehooks\corprofiler.cpp(197): warning C4996: 'wcscat': This function or variable may be unsafe. Consider using wcscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  e:\windows kits\10\include\10.0.17763.0\ucrt\corecrt_wstring.h(100): note: 参见“wcscat”的声明
+c:\users\dell\source\repos\clr-samples\profilingapi\rejitenterleavehooks\corprofiler.cpp(198): warning C4996: 'wcscat': This function or variable may be unsafe. Consider using wcscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  e:\windows kits\10\include\10.0.17763.0\ucrt\corecrt_wstring.h(100): note: 参见“wcscat”的声明
+c:\users\dell\source\repos\clr-samples\profilingapi\rejitenterleavehooks\corprofiler.cpp(201): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  e:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: 参见“fopen”的声明
+  ClrProfiler.vcxproj -> C:\Users\DELL\source\repos\clr-samples\ProfilingAPI\ReJITEnterLeaveHooks\Debug\ClrProfiler.dll
