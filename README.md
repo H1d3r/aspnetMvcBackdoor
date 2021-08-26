@@ -14,4 +14,4 @@ MORESEC_PROFILER_PROCESSES变量是探测器加载CLR程序后进行判断是否
 
 设置探查器环境前后对比：
 
-![image-20210812153729764](.\Dingtalk_20210826180525.jpg)
+![image-20210812153729764](./Dingtalk_20210826180525.jpg)
